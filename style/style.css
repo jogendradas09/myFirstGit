@@ -1,0 +1,4 @@
+@import url(reset.css);
+
+body{background: #EEE; height: 300px;}
+.drawDiv{border: 2px #00aeef dashed; position: absolute; background: #f3ffbb;}
